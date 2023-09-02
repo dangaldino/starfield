@@ -8,7 +8,7 @@
 
 ## 💻 Projeto
 
-Este projeto do **Starfield** foi criado com intuito apenas de estudar propriedades do CSS e aprimorar a forma de estruturar o HTML.
+Este projeto do **Starfield** foi criado com intuito apenas de estudar propriedades do CSS e aprimorar a forma de estruturar o HTML, também fazendo uso de bibliotecas de animação. 
 
 ## 🚀 Tecnologias
 
