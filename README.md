@@ -8,7 +8,7 @@
 
 ## 💻 Projeto
 
-Este projeto do **Starfield** é apenas para fim de aprendizagem ao usar _HTML_ e _CSS_.
+Este projeto do **Starfield** foi criado com intuito apenas de estudar propriedades do CSS e aprimorar a forma de estruturar o HTML.
 
 ## 🚀 Tecnologias
 
