@@ -24,6 +24,7 @@
     
     <div id="app">
         <header>
+            
             <img src="./assets/logo-cap.png" alt="logo_starfield">
             <ul class="navigation">
                 <li>
@@ -63,7 +64,36 @@
                   </svg>
             </div>
 
+            <div class="mobile-menu-icon">
+                <button onclick="menuShow()"><img src="./assets/menu_white_36dp.svg" alt="" class="icon">
+            </div>
+
+       
+
+        <div class="mobile-menu">
+            <ul class="navigation">
+                <li>
+                    <a href="#" class="navigation__link">Home</a>
+                </li>
+
+                <li>
+                    <a href="#" class="navigation__link">Story</a>
+                </li>
+
+                <li>
+                    <a href="#" class="navigation__link">Wallpapers</a>
+                </li>
+
+                <li>
+                    <a href="https://www.youtube.com/watch?v=zBmaa87DPBM" class="navigation__link">Trailer</a>
+                </li>
+
+                
+            </ul>
+        </div>
+
         </header>
+
 
         <main>
             <div class="main__info">
@@ -105,10 +135,11 @@
         </main>
 
     </div>
-
+    <script src="./js/script.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script>
         AOS.init();
     </script>
+
 </body>
 </html>
